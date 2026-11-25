@@ -1,3 +1,7 @@
+[![make.fun bounty](https://make.fun/badge/news-image-20261124.svg)](https://make.fun/bounty/news-image-20261124)
+[![rank](https://make.fun/badge/news-image-20261124/Aldrinxjarot/news-image-20261124/rank.svg)](https://make.fun/bounty/news-image-20261124)
+[![reward](https://make.fun/badge/news-image-20261124/Aldrinxjarot/news-image-20261124/reward.svg)](https://make.fun/bounty/news-image-20261124)
+
 # The World in One Day — Tuesday, 24 November 2026
 
 Entry for make.fun **news-image-20261124**: one 1024×1024 image that
